@@ -1,0 +1,7 @@
+google-adk==1.28.0
+fastapi
+uvicorn[standard]
+google-cloud-firestore
+python-dotenv
+pydantic-settings
+fastmcp>=2.13.0
